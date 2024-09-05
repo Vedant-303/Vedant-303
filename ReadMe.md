@@ -1,5 +1,5 @@
-# 💫 About Me:
-💻 Front-End Developer with expertise in building dynamic, responsive web applications.<br>🎨 Proficient in both frontend and backend technologies, ensuring seamless user experiences.<br>📊 Strong foundation in Data Analysis for making data-driven decisions and insights.<br>🚀 Passionate about continuous learning and innovation in software development.<br>
+# 👨🏻‍💻 About Me:
+💻 Front-End Developer with expertise in building dynamic, responsive web applications.<br>🎨 Proficient in both frontend and backend technologies, ensuring seamless user experiences.<br>📊 Strong foundation in Data Analysis for making data-driven decisions and insights.<br>🚀 Passionate about continuous learning and innovation in software development.<br> 📖 Currently learning artificial intelligence and machine learning.
 
 
 ## 🌐 Socials:
@@ -10,5 +10,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
